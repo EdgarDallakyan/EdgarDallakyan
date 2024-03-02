@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi! 👋 My name is Edgar. Welcome! ✌️
 
-<!--
-**EdgarDallakyan/EdgarDallakyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am 25 year old programmer 💻
+- I learn Java at [Job4j](https://job4j.ru/)
+- My Java expirience is 7 month
+---
+- ![Java](https://img.shields.io/badge/Java-%3E%3D1.5-green)
+---
+- Here is my study projects:
+
+
+ 
+- [tracker project](https://github.com/EdgarDallakyan/job4j_tracker)
+---
+![Github stats](https://github-readme-stats.vercel.app/api?username=EdgarDallakyan&hide=stars,prs,issues,contribs)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarDallakyan&layout=compact)](https://github.com/ShamRail/github-readme-stats)
