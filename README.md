@@ -3,7 +3,7 @@ Hi! 👋 My name is Edgar. Welcome! ✌️
 About me
 
 
-- I am 25 year old programmer from Pyatigorsk, Russia :mount_fuji:
+- I am 26 year old programmer from Pyatigorsk, Russia :mount_fuji:
 
 - I learn Java at [Job4j](https://job4j.ru/) 💻
 
